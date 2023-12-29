@@ -222,4 +222,4 @@ ReactDOM.hydrate(<Main />, document.querySelector('#root'));
 ## Reference implementations
 
 Here is [the reference implementation of this tutorial](https://github.com/mui/material-ui/tree/HEAD/examples/material-ui-express-ssr).
-You can more SSR implementations in the GitHub repository under the `/examples` folder, see [the other examples](/material-ui/getting-started/example-projects/).
+You can learn more about SSR implementations in the GitHub repository under the `/examples` folder, see [the other examples](/material-ui/getting-started/example-projects/).
